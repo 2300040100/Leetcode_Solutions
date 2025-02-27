@@ -1,6 +1,6 @@
 # LeetCode Solutions 🚀
 
-This repository contains my **LeetCode** solutions implemented in **Java**.
+This repository contains my **LeetCode** solutions
 
 ---
 
